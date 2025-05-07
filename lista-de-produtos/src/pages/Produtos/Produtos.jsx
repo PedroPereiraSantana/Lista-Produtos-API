@@ -3,9 +3,12 @@ import './style.css'
 import NavBar from '../../components/NavBar'
 
 function Produtos () {
-    <>
-        <NavBar/>
-    </>
+
+    return(
+        <>
+            <NavBar/>
+        </>
+    )
 }
 
-export default Produtos
+export default Produtos;
